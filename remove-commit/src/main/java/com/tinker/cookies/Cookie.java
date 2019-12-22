@@ -2,7 +2,7 @@ package com.tinker.cookies;
 
 import java.util.List;
 
-public interface Cookies {
+public interface Cookie {
 
     void makeCookies();
     List<Ingredient> getIngredients();
