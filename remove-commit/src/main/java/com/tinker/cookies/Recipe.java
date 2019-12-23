@@ -15,4 +15,6 @@ public class Recipe {
     private List<Ingredient> ingredients;
     private List<String> steps;
     public List<String> cookingTools;
+    public List<Recipe> relatedRecipes;
+    public List<Recipe> recommendedRecipes;
 }
