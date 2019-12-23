@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 @Data
 public class Ingredient {
     private String name;
-    private Unit weigh;
+    private Measurement weigh;
     private String unit;
 
 }
