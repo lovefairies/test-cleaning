@@ -1,4 +1,4 @@
-package com.tinker.cookies;
+package com.tinker.cooking;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
